@@ -1,2 +1,2 @@
 # sentimentAnalysis
-This repository contains  my learning and application of Machine Learning in finance from scratch.
+This repository contains various sentiment analysis approaches depending on training data.
